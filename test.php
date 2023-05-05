@@ -17,3 +17,12 @@ if ($method == 'PUT') {
 if ($method == 'DELETE') {
 	echo "THIS IS A DELETE REQUEST";
 }
+
+
+
+
+// echo '<b>Encrypted EncryptTrans:-</b>'.$EncryptTrans.'<br/><br/>';
+// echo '<b>Encrypted EncryptbillingDetails:-</b> '.$EncryptbillingDetails.'<br/><br/>';
+// echo '<b>Encrypted EncryptshippingDetais:-</b>'.$EncryptshippingDetais.'<br/><br/>';
+// echo '<b>Encrypted EncryptpaymentDetails:-</b>'.$EncryptpaymentDetails.'<br/><br/>';
+// echo "<br/>Action URL:https://test.sbiepay.sbi/secure/AggregatorHostedListener"; 
